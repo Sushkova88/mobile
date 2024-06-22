@@ -5,6 +5,6 @@
 
  Отчеты дефектах XLSX - https://github.com/Sushkova88/mobile/blob/main/Issues%20(12).xlsx
 
-Тестовый прогон в PDF - 
+Тестовый прогон в PDF - https://github.com/Sushkova88/mobile/blob/main/G7-Express%2Brun%2B2024_06_20.pdf
 
-Отчет по результатам тестирования - 
+Отчет по результатам тестирования - https://docs.google.com/document/d/1OkFJEPR_RRLMzy3nQ2LKWGzCfszoKxZKIos9RacK5Ms/edit?usp=sharing
