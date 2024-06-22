@@ -3,7 +3,7 @@
 
 Тест-кейсы - https://github.com/Sushkova88/mobile/blob/main/G7-2024-06-19.pdf
 
- Отчеты дефектах XLSX - 
+ Отчеты дефектах XLSX - https://github.com/Sushkova88/mobile/blob/main/Issues%20(12).xlsx
 
 Тестовый прогон в PDF - 
 
