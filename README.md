@@ -10,7 +10,7 @@
 
 <a href= "https://github.com/Sushkova88/mobile/blob/main/G7-Express%2Brun%2B2024_06_20.pdf">  Тестовый прогон в PDF </a> 
 
-<a href= " https://docs.google.com/document/d/1OkFJEPR_RRLMzy3nQ2LKWGzCfszoKxZKIos9RacK5Ms/edit?usp=sharing">  Отчет по результатам тестирования </a> 
+<a href= "https://docs.google.com/document/d/1OkFJEPR_RRLMzy3nQ2LKWGzCfszoKxZKIos9RacK5Ms/edit?usp=sharing">  Отчет по результатам тестирования </a> 
 
 <a href= "https://github.com/Sushkova88/mobile/blob/main/%D1%83%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%81%20%D0%BF%D0%BE%D0%B4%D0%BC%D0%B5%D0%BD%D0%BE%D0%B9.zip">  Перехватываем и изменяем трафик - удаление с подменой </a> 
 
